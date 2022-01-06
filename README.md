@@ -1,4 +1,5 @@
-### Olá! Eu sou o Rafael Portela 
+## Oiii eu sou o Rafael Portela, Desenvolvedor de Frontend
+##
 
 
 - 🔭 Hoje trabalho com Frontend
