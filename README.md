@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [pazze](https://web.pazze.app)
 
-- 💬 Ask me about **golang, postregre**
+- 💬 Ask me about **golang, postgresql**
 
 - 📫 How to reach me **portelarafael4@gmail.com**
 
